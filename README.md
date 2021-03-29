@@ -1,4 +1,5 @@
 # Metronome + Beat Tap app for BipOS
+This app can be useful for people who play musical instruments.
 
 # Features
 - Metronome: range from 10 BPM to 200 BPM

@@ -1,0 +1,972 @@
+Archive member included to satisfy reference by file (symbol)
+
+..\libbip\libbip.a(import.o)  (_start)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 metronome.o
+ .data          0x00000000        0x0 metronome.o
+ .bss           0x00000000        0x0 metronome.o
+ .text.exit_app
+                0x00000000       0x2c metronome.o
+ .data          0x00000000        0x0 ..\libbip\libbip.a(import.o)
+ .bss           0x00000000        0x0 ..\libbip\libbip.a(import.o)
+ .text.intro    0x00000000        0x9 ..\libbip\libbip.a(import.o)
+ .text.text_width
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_text_height
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_last_text_pos_x
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.draw_horizontal_line
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.draw_vertical_line
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.draw_filled_rect
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_res_by_id
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.draw_rect_or_line
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.repaint_screen
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_poweroff_message
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_options_menu_2nd_screen
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_menu_options
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_menu
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_options_menu_1st_screen
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_res_ret_language
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._strlen  0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._strcmp  0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._strcpy  0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._strncmp
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._strncpy
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._memset  0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._memcpy  0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._memcmp  0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_close_timer
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.log_printf
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._pvPortMalloc
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.vPortFree
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_menu_touch_test
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_main_menu_item
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_menu_alipay
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.keypress_menu_alipay_1st_screen
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.dispatch_left_side_menu
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_left_side_menu_active
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_current_date_time
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_big_digit
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.text_out_font
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.vTaskDelay
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_alarm_set_screen
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.dispatch_alarm_set
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.store_and_enable_alarm
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.read_flash
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.write_flash
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_generic_data
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_generic_data
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_backlight_value
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_backlight_percent
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_backlight_state
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._rand    0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text._srand   0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.send_host_app_msg
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.send_host_app_data
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.check_app_state
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.stm32_soft_reset
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.iwdg_reboot
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_last_heartrate
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_hrm_mode
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_hrm_struct
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_res_string_by_id
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_left_side_menu_active
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.is_gps_fixed
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.switch_gps_pressure_sensors
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_navi_data
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.add_notification
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.create_and_show_notification
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_current_timestamp
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_selected_locale
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_stored_lang
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.store_selected_lang
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_system_locale
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.draw_progressbar
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.dump_mem
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_res_count
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.read_res_by_id
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.add_menu_item
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.clear_menu
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.draw_menu
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.dispatch_menu
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.push_ret_f
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.pop_ret_f
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_fw_version
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.load_elf_by_index
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.load_elf_by_name
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.init_elf_loader
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.elf_finish
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.ElfReadSettings
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.ElfWriteSettings
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.ElfGetSettingsSize
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.show_elf_res_by_id
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_res_params
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_proc_by_addr
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.read_elf_res_by_id
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_var_current_screen
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_var_current_screen
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_var_swipe_screen_active_number
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_var_swipe_screen_active_number
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_var_menu_overlay
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_ptr_menu_dispatch_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_ptr_menu_dispatch_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_ptr_key_press_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_ptr_key_press_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_ptr_screen_job_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_ptr_screen_job_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_ptr_temp_buf_1
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_ptr_show_menu_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_ptr_show_menu_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_ptr_long_key_press_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.set_ptr_long_key_press_func
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_var_left_side_menu_active
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_var_free_ram
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_ptr_screen_memory
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.get_ptr_free_list
+                0x00000000        0xc ..\libbip\libbip.a(import.o)
+ .text.outro    0x00000000        0xe ..\libbip\libbip.a(import.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD metronome.o
+LOAD D:\1Projects\1WORK\hobby-amazfit-bip\buildtools\arm-none-eabi\lib\thumb\v7e-m+fp\hard\libm.a
+LOAD D:\1Projects\1WORK\hobby-amazfit-bip\buildtools\arm-none-eabi\lib\thumb\v7e-m+fp\hard\libc.a
+LOAD ..\libbip\libbip.a
+                [!provide]                PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x8000))
+                0x00008000                . = SEGMENT_START ("text-segment", 0x8000)
+
+.interp         0x00008000       0x11
+ *(.interp)
+ .interp        0x00008000       0x11 metronome.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00008014       0x18
+ *(.hash)
+ .hash          0x00008014       0x18 metronome.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x0000802c       0x30
+ *(.dynsym)
+ .dynsym        0x0000802c       0x30 metronome.o
+
+.dynstr         0x0000805c        0x1
+ *(.dynstr)
+ .dynstr        0x0000805c        0x1 metronome.o
+
+.gnu.version    0x0000805e        0x0
+ *(.gnu.version)
+ .gnu.version   0x0000805e        0x0 metronome.o
+
+.gnu.version_d  0x00008060        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00008060        0x0 metronome.o
+
+.gnu.version_r  0x00008060        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00008060        0x0 metronome.o
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text       0x00008060        0x8
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text      0x00008060        0x8 metronome.o
+
+.rela.text
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+
+.rela.rodata
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+
+.rel.data.rel.ro
+                0x00008068        0x0
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro
+                0x00008068        0x0 metronome.o
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro .rela.data.rel.ro.* .rela.gnu.linkonce.d.rel.ro.*)
+
+.rel.data       0x00008068       0x20
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel.screen_data
+                0x00008068       0x20 metronome.o
+
+.rela.data
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+
+.rel.tdata
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+
+.rela.tdata
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+
+.rel.tbss
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+
+.rela.tbss
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got        0x00008088       0x10
+ *(.rel.got)
+ .rel.got       0x00008088       0x10 metronome.o
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss        0x00008098        0x0
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00008098        0x0 metronome.o
+
+.rela.bss
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.iplt       0x00008098        0x0
+                [!provide]                PROVIDE (__rel_iplt_start = .)
+ *(.rel.iplt)
+ .rel.iplt      0x00008098        0x0 metronome.o
+                [!provide]                PROVIDE (__rel_iplt_end = .)
+
+.rela.iplt      0x00008098        0x0
+                [!provide]                PROVIDE (__rela_iplt_start = .)
+ *(.rela.iplt)
+                [!provide]                PROVIDE (__rela_iplt_end = .)
+
+.rel.plt        0x00008098        0x0
+ *(.rel.plt)
+ .rel.plt       0x00008098        0x0 metronome.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt            0x00008098        0x0
+ *(.plt)
+ .plt           0x00008098        0x0 metronome.o
+
+.iplt           0x00008098        0x0
+ *(.iplt)
+ .iplt          0x00008098        0x0 metronome.o
+
+.text           0x00008098      0x600
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ .text.startup.main
+                0x00008098        0xa metronome.o
+                0x00008098                main
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ *fill*         0x000080a2        0x2 
+ .text.key_press_screen
+                0x000080a4       0x2c metronome.o
+                0x000080a4                key_press_screen
+ .text.set_bpm  0x000080d0       0x18 metronome.o
+                0x000080d0                set_bpm
+ .text.screen_job
+                0x000080e8       0x28 metronome.o
+                0x000080e8                screen_job
+ .text.draw_button
+                0x00008110       0x52 metronome.o
+                0x00008110                draw_button
+ *fill*         0x00008162        0x2 
+ .text.metronome_draw_button_row
+                0x00008164       0x70 metronome.o
+                0x00008164                metronome_draw_button_row
+ .text.metronome_draw_button_play_pause
+                0x000081d4       0x48 metronome.o
+                0x000081d4                metronome_draw_button_play_pause
+ .text.metronome_draw_texts
+                0x0000821c       0x64 metronome.o
+                0x0000821c                metronome_draw_texts
+ .text.beat_tap_calc_bpm
+                0x00008280       0x48 metronome.o
+                0x00008280                beat_tap_calc_bpm
+ .text.beat_tap_draw_texts
+                0x000082c8       0x98 metronome.o
+                0x000082c8                beat_tap_draw_texts
+ .text.draw_screen
+                0x00008360       0x40 metronome.o
+                0x00008360                draw_screen
+ .text.show_screen
+                0x000083a0       0xb0 metronome.o
+                0x000083a0                show_screen
+ .text.adjust_bpm
+                0x00008450       0x22 metronome.o
+                0x00008450                adjust_bpm
+ .text.handle_gest_metronome_screen
+                0x00008472       0x92 metronome.o
+                0x00008472                handle_gest_metronome_screen
+ .text.handle_gest_beat_tap_screen
+                0x00008504       0x5c metronome.o
+                0x00008504                handle_gest_beat_tap_screen
+ .text.dispatch_screen
+                0x00008560       0x22 metronome.o
+                0x00008560                dispatch_screen
+ *fill*         0x00008582        0x2 
+ .text          0x00008584        0xc ..\libbip\libbip.a(import.o)
+                0x00008584                _start
+ .text.text_out
+                0x00008590        0xc ..\libbip\libbip.a(import.o)
+                0x00008590                text_out
+ .text.text_out_center
+                0x0000859c        0xc ..\libbip\libbip.a(import.o)
+                0x0000859c                text_out_center
+ .text.set_bg_color
+                0x000085a8        0xc ..\libbip\libbip.a(import.o)
+                0x000085a8                set_bg_color
+ .text.set_fg_color
+                0x000085b4        0xc ..\libbip\libbip.a(import.o)
+                0x000085b4                set_fg_color
+ .text.draw_rect
+                0x000085c0        0xc ..\libbip\libbip.a(import.o)
+                0x000085c0                draw_rect
+ .text.fill_screen_bg
+                0x000085cc        0xc ..\libbip\libbip.a(import.o)
+                0x000085cc                fill_screen_bg
+ .text.set_graph_callback_to_ram_1
+                0x000085d8        0xc ..\libbip\libbip.a(import.o)
+                0x000085d8                set_graph_callback_to_ram_1
+ .text.draw_filled_rect_bg
+                0x000085e4        0xc ..\libbip\libbip.a(import.o)
+                0x000085e4                draw_filled_rect_bg
+ .text.repaint_screen_lines
+                0x000085f0        0xc ..\libbip\libbip.a(import.o)
+                0x000085f0                repaint_screen_lines
+ .text.reg_menu
+                0x000085fc        0xc ..\libbip\libbip.a(import.o)
+                0x000085fc                reg_menu
+ .text.show_menu_animate
+                0x00008608        0xc ..\libbip\libbip.a(import.o)
+                0x00008608                show_menu_animate
+ .text.load_font
+                0x00008614        0xc ..\libbip\libbip.a(import.o)
+                0x00008614                load_font
+ .text._sprintf
+                0x00008620        0xc ..\libbip\libbip.a(import.o)
+                0x00008620                _sprintf
+ .text._memclr  0x0000862c        0xc ..\libbip\libbip.a(import.o)
+                0x0000862c                _memclr
+ .text.get_tick_count
+                0x00008638        0xc ..\libbip\libbip.a(import.o)
+                0x00008638                get_tick_count
+ .text.set_update_period
+                0x00008644        0xc ..\libbip\libbip.a(import.o)
+                0x00008644                set_update_period
+ .text.set_display_state_value
+                0x00008650        0xc ..\libbip\libbip.a(import.o)
+                0x00008650                set_display_state_value
+ .text.vibrate  0x0000865c        0xc ..\libbip\libbip.a(import.o)
+                0x0000865c                vibrate
+ .text.show_watchface
+                0x00008668        0xc ..\libbip\libbip.a(import.o)
+                0x00008668                show_watchface
+ .text.pvPortMalloc
+                0x00008674        0xc ..\libbip\libbip.a(import.o)
+                0x00008674                pvPortMalloc
+ .text.get_var_menu_overlay
+                0x00008680        0xc ..\libbip\libbip.a(import.o)
+                0x00008680                get_var_menu_overlay
+ .text.get_ptr_temp_buf_2
+                0x0000868c        0xc ..\libbip\libbip.a(import.o)
+                0x0000868c                get_ptr_temp_buf_2
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00008698        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00008698        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00008698        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00008698        0x0 linker stubs
+
+.fini
+ *(SORT_NONE(.fini))
+                [!provide]                PROVIDE (__etext = .)
+                [!provide]                PROVIDE (_etext = .)
+                [!provide]                PROVIDE (etext = .)
+
+.rodata         0x00008698       0x46
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.metronome_draw_button_row.str1.1
+                0x00008698        0xe metronome.o
+ .rodata.metronome_draw_button_play_pause.str1.1
+                0x000086a6        0xb metronome.o
+ .rodata.metronome_draw_texts.str1.1
+                0x000086b1       0x22 metronome.o
+ .rodata.beat_tap_draw_texts.str1.1
+                0x000086d3        0xb metronome.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                [!provide]                PROVIDE (__exidx_start = .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                [!provide]                PROVIDE (__exidx_end = .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x000086de                . = .
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.tdata          0x000086de        0x0
+                [!provide]                PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x000086de        0x0
+                [!provide]                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000086de        0x0
+                [!provide]                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                [!provide]                PROVIDE (__init_array_end = .)
+
+.fini_array     0x000086de        0x0
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x000086de        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x000086de        0x0 metronome.o
+
+.dynamic        0x000086e0       0x80
+ *(.dynamic)
+ .dynamic       0x000086e0       0x80 metronome.o
+                0x000086e0                _DYNAMIC
+
+.got            0x00008760       0x14
+ *(.got.plt)
+ .got.plt       0x00008760        0xc metronome.o
+                0x00008760                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x0000876c        0x0 metronome.o
+ *(.got)
+ .got           0x0000876c        0x8 metronome.o
+ *(.igot)
+
+.data           0x00008774       0x20
+                0x00008774                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.screen_data
+                0x00008774       0x20 metronome.o
+                0x00008774                screen_data
+
+.data1
+ *(.data1)
+                0x00008794                _edata = .
+                [!provide]                PROVIDE (edata = .)
+                0x00008794                . = .
+                0x00008794                __bss_start = .
+                0x00008794                __bss_start__ = .
+
+.bss            0x00008794        0x0
+ *(.dynbss)
+ .dynbss        0x00008794        0x0 metronome.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ *(COMMON)
+                0x00008794                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00008794                _bss_end__ = .
+                0x00008794                __bss_end__ = .
+                0x00008794                . = ALIGN (0x4)
+                0x00008794                . = SEGMENT_START ("ldata-segment", .)
+                0x00008794                . = ALIGN (0x4)
+                0x00008794                __end__ = .
+                0x00008794                _end = .
+                [!provide]                PROVIDE (end = .)
+
+.stack          0x00080000        0x0
+                0x00080000                _stack = .
+ *(.stack)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x79
+ *(.comment)
+ .comment       0x00000000       0x79 metronome.o
+                                 0x7a (size before relaxing)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.ARM.attributes
+                0x00000000       0x32
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 metronome.o
+ .ARM.attributes
+                0x00000034       0x21 ..\libbip\libbip.a(import.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.noinit         0x00008794        0x0
+                0x00008794                . = ALIGN (0x2)
+                [!provide]                PROVIDE (__noinit_start = .)
+ *(.noinit)
+                0x00008794                . = ALIGN (0x2)
+                [!provide]                PROVIDE (__noinit_end = .)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(nui_metronome.elf elf32-littlearm)
+
+Cross Reference Table
+
+Symbol                                            File
+ElfGetSettingsSize                                ..\libbip\libbip.a(import.o)
+ElfReadSettings                                   ..\libbip\libbip.a(import.o)
+ElfWriteSettings                                  ..\libbip\libbip.a(import.o)
+_DYNAMIC                                          metronome.o
+_GLOBAL_OFFSET_TABLE_                             metronome.o
+_memclr                                           ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+_memcmp                                           ..\libbip\libbip.a(import.o)
+_memcpy                                           ..\libbip\libbip.a(import.o)
+_memset                                           ..\libbip\libbip.a(import.o)
+_pvPortMalloc                                     ..\libbip\libbip.a(import.o)
+_rand                                             ..\libbip\libbip.a(import.o)
+_sprintf                                          ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+_srand                                            ..\libbip\libbip.a(import.o)
+_start                                            ..\libbip\libbip.a(import.o)
+_strcmp                                           ..\libbip\libbip.a(import.o)
+_strcpy                                           ..\libbip\libbip.a(import.o)
+_strlen                                           ..\libbip\libbip.a(import.o)
+_strncmp                                          ..\libbip\libbip.a(import.o)
+_strncpy                                          ..\libbip\libbip.a(import.o)
+add_menu_item                                     ..\libbip\libbip.a(import.o)
+add_notification                                  ..\libbip\libbip.a(import.o)
+adjust_bpm                                        metronome.o
+beat_tap_calc_bpm                                 metronome.o
+beat_tap_draw_texts                               metronome.o
+check_app_state                                   ..\libbip\libbip.a(import.o)
+clear_menu                                        ..\libbip\libbip.a(import.o)
+create_and_show_notification                      ..\libbip\libbip.a(import.o)
+dispatch_alarm_set                                ..\libbip\libbip.a(import.o)
+dispatch_left_side_menu                           ..\libbip\libbip.a(import.o)
+dispatch_menu                                     ..\libbip\libbip.a(import.o)
+dispatch_screen                                   metronome.o
+draw_button                                       metronome.o
+draw_filled_rect                                  ..\libbip\libbip.a(import.o)
+draw_filled_rect_bg                               ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+draw_horizontal_line                              ..\libbip\libbip.a(import.o)
+draw_menu                                         ..\libbip\libbip.a(import.o)
+draw_progressbar                                  ..\libbip\libbip.a(import.o)
+draw_rect                                         ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+draw_rect_or_line                                 ..\libbip\libbip.a(import.o)
+draw_screen                                       metronome.o
+draw_vertical_line                                ..\libbip\libbip.a(import.o)
+dump_mem                                          ..\libbip\libbip.a(import.o)
+elf_finish                                        ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+exit_app                                          metronome.o
+fill_screen_bg                                    ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+get_backlight_value                               ..\libbip\libbip.a(import.o)
+get_current_date_time                             ..\libbip\libbip.a(import.o)
+get_current_timestamp                             ..\libbip\libbip.a(import.o)
+get_fw_version                                    ..\libbip\libbip.a(import.o)
+get_generic_data                                  ..\libbip\libbip.a(import.o)
+get_hrm_struct                                    ..\libbip\libbip.a(import.o)
+get_last_heartrate                                ..\libbip\libbip.a(import.o)
+get_last_text_pos_x                               ..\libbip\libbip.a(import.o)
+get_left_side_menu_active                         ..\libbip\libbip.a(import.o)
+get_navi_data                                     ..\libbip\libbip.a(import.o)
+get_proc_by_addr                                  ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+get_ptr_free_list                                 ..\libbip\libbip.a(import.o)
+get_ptr_key_press_func                            ..\libbip\libbip.a(import.o)
+get_ptr_long_key_press_func                       ..\libbip\libbip.a(import.o)
+get_ptr_menu_dispatch_func                        ..\libbip\libbip.a(import.o)
+get_ptr_screen_job_func                           ..\libbip\libbip.a(import.o)
+get_ptr_screen_memory                             ..\libbip\libbip.a(import.o)
+get_ptr_show_menu_func                            ..\libbip\libbip.a(import.o)
+get_ptr_temp_buf_1                                ..\libbip\libbip.a(import.o)
+get_ptr_temp_buf_2                                ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+get_res_count                                     ..\libbip\libbip.a(import.o)
+get_res_params                                    ..\libbip\libbip.a(import.o)
+get_res_ret_language                              ..\libbip\libbip.a(import.o)
+get_res_string_by_id                              ..\libbip\libbip.a(import.o)
+get_selected_locale                               ..\libbip\libbip.a(import.o)
+get_stored_lang                                   ..\libbip\libbip.a(import.o)
+get_system_locale                                 ..\libbip\libbip.a(import.o)
+get_text_height                                   ..\libbip\libbip.a(import.o)
+get_tick_count                                    ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+get_var_current_screen                            ..\libbip\libbip.a(import.o)
+get_var_free_ram                                  ..\libbip\libbip.a(import.o)
+get_var_left_side_menu_active                     ..\libbip\libbip.a(import.o)
+get_var_menu_overlay                              ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+get_var_swipe_screen_active_number                ..\libbip\libbip.a(import.o)
+handle_gest_beat_tap_screen                       metronome.o
+handle_gest_metronome_screen                      metronome.o
+init_elf_loader                                   ..\libbip\libbip.a(import.o)
+is_gps_fixed                                      ..\libbip\libbip.a(import.o)
+iwdg_reboot                                       ..\libbip\libbip.a(import.o)
+key_press_screen                                  metronome.o
+keypress_menu_alipay_1st_screen                   ..\libbip\libbip.a(import.o)
+load_elf_by_index                                 ..\libbip\libbip.a(import.o)
+load_elf_by_name                                  ..\libbip\libbip.a(import.o)
+load_font                                         ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+log_printf                                        ..\libbip\libbip.a(import.o)
+main                                              metronome.o
+                                                  ..\libbip\libbip.a(import.o)
+metronome_draw_button_play_pause                  metronome.o
+metronome_draw_button_row                         metronome.o
+metronome_draw_texts                              metronome.o
+pop_ret_f                                         ..\libbip\libbip.a(import.o)
+push_ret_f                                        ..\libbip\libbip.a(import.o)
+pvPortMalloc                                      ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+read_elf_res_by_id                                ..\libbip\libbip.a(import.o)
+read_flash                                        ..\libbip\libbip.a(import.o)
+read_res_by_id                                    ..\libbip\libbip.a(import.o)
+reg_menu                                          ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+repaint_screen                                    ..\libbip\libbip.a(import.o)
+repaint_screen_lines                              ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+screen_data                                       metronome.o
+screen_job                                        metronome.o
+send_host_app_data                                ..\libbip\libbip.a(import.o)
+send_host_app_msg                                 ..\libbip\libbip.a(import.o)
+set_backlight_percent                             ..\libbip\libbip.a(import.o)
+set_backlight_state                               ..\libbip\libbip.a(import.o)
+set_bg_color                                      ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+set_bpm                                           metronome.o
+set_close_timer                                   ..\libbip\libbip.a(import.o)
+set_display_state_value                           ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+set_fg_color                                      ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+set_generic_data                                  ..\libbip\libbip.a(import.o)
+set_graph_callback_to_ram_1                       ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+set_hrm_mode                                      ..\libbip\libbip.a(import.o)
+set_left_side_menu_active                         ..\libbip\libbip.a(import.o)
+set_ptr_key_press_func                            ..\libbip\libbip.a(import.o)
+set_ptr_long_key_press_func                       ..\libbip\libbip.a(import.o)
+set_ptr_menu_dispatch_func                        ..\libbip\libbip.a(import.o)
+set_ptr_screen_job_func                           ..\libbip\libbip.a(import.o)
+set_ptr_show_menu_func                            ..\libbip\libbip.a(import.o)
+set_update_period                                 ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+set_var_current_screen                            ..\libbip\libbip.a(import.o)
+set_var_menu_overlay                              ..\libbip\libbip.a(import.o)
+set_var_swipe_screen_active_number                ..\libbip\libbip.a(import.o)
+show_alarm_set_screen                             ..\libbip\libbip.a(import.o)
+show_big_digit                                    ..\libbip\libbip.a(import.o)
+show_elf_res_by_id                                ..\libbip\libbip.a(import.o)
+show_main_menu_item                               ..\libbip\libbip.a(import.o)
+show_menu                                         ..\libbip\libbip.a(import.o)
+show_menu_alipay                                  ..\libbip\libbip.a(import.o)
+show_menu_animate                                 ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+show_menu_options                                 ..\libbip\libbip.a(import.o)
+show_menu_touch_test                              ..\libbip\libbip.a(import.o)
+show_options_menu_1st_screen                      ..\libbip\libbip.a(import.o)
+show_options_menu_2nd_screen                      ..\libbip\libbip.a(import.o)
+show_poweroff_message                             ..\libbip\libbip.a(import.o)
+show_res_by_id                                    ..\libbip\libbip.a(import.o)
+show_screen                                       metronome.o
+show_watchface                                    ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+stm32_soft_reset                                  ..\libbip\libbip.a(import.o)
+store_and_enable_alarm                            ..\libbip\libbip.a(import.o)
+store_selected_lang                               ..\libbip\libbip.a(import.o)
+switch_gps_pressure_sensors                       ..\libbip\libbip.a(import.o)
+text_out                                          ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+text_out_center                                   ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+text_out_font                                     ..\libbip\libbip.a(import.o)
+text_width                                        ..\libbip\libbip.a(import.o)
+vPortFree                                         ..\libbip\libbip.a(import.o)
+vTaskDelay                                        ..\libbip\libbip.a(import.o)
+vibrate                                           ..\libbip\libbip.a(import.o)
+                                                  metronome.o
+write_flash                                       ..\libbip\libbip.a(import.o)
